@@ -1,0 +1,5 @@
+train: D:/dataset buat sendiri/dataset/images/train
+val: D:/dataset buat sendiri/dataset/images/val
+
+nc: 1
+names: ['plat']
